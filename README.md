@@ -15,8 +15,8 @@ Then open visual studio 2022
 Create new project
 Create a new C file
 
+Open the project Properties (project settings) and do the following:
 Go to C++ include directories the libs
-
 Go to linker include directories the bin
 
 MAKE SURE DEBUGGER HAS ALL NECCESSARY FILES. especially DLL files as 2022 does not work without it.
